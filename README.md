@@ -6,7 +6,7 @@ An example dotnet project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
 For running scan install .NetFramework and msbuild 
 
-### Windows
+###Windows
 
 ```
 choco install srcclr
