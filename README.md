@@ -16,7 +16,7 @@ msbuild example-dotnet/
 srcclr scan example-dotnet/
 ```
 
-### OSX
+###  OSX
 ```
 brew tap srcclr/srcclr
 brew install srcclr
