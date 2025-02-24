@@ -8,6 +8,7 @@ For running scan install .NetFramework and msbuild
 
 ###Windows
 
+
 ```
 choco install srcclr
 srcclr activate
