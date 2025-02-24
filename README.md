@@ -18,6 +18,7 @@ srcclr scan example-dotnet/
 ```
 
 ##  OSX
+#DDD
 ```
 brew tap srcclr/srcclr
 brew install srcclr
