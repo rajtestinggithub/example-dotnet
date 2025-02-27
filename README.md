@@ -28,3 +28,4 @@ srcclr scan example-dotnet/
 ```
 Test 1
 TEST 2
+TEST
