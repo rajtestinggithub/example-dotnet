@@ -1,7 +1,9 @@
 [:] Example Dotnet Project
 
 ###Testing
-
+#a
+#b
+#r
 
 An example dotnet project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
