@@ -4,6 +4,7 @@
 #Test678
 #Profiletesting
 #Test59
+#TESTSCA
 
 
 An example dotnet project to demonstrate [srcclr](https://www.srcclr.com) scans.
