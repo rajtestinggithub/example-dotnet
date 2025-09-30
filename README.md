@@ -6,7 +6,7 @@
 #Test59
 #test99
 #TESTSCA
-#debug test
+#debug testing
 
 
 An example dotnet project to demonstrate [srcclr](https://www.srcclr.com) scans.
