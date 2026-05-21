@@ -8,6 +8,7 @@
 #TESTSCA
 #TestDEC
 #debug testing
+#dotnetPR to check valid runs
 
 
 An example dotnet project to demonstrate [srcclr](https://www.srcclr.com) scans.
