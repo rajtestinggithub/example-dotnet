@@ -10,7 +10,7 @@
 
 ###TESTPR
 #debug testing
-#June926
+#dotnetPR to check valid runs
 
 
 An example dotnet project to demonstrate [srcclr](https://www.srcclr.com) scans.
