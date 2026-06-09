@@ -8,6 +8,7 @@
 #TESTSCA
 #TestDEC
 #debug testing
+#June926
 
 
 An example dotnet project to demonstrate [srcclr](https://www.srcclr.com) scans.
