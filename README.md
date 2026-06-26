@@ -12,6 +12,7 @@
 #Testingstaticdefaultbranchs
 #Testbranchestoexclude
 #Testondefaultbranch
+#Testmainbranch
 
 
 #PRTEST
