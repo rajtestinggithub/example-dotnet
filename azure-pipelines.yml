@@ -21,9 +21,7 @@ steps:
   # -------------------------
   # Veracode SCA Scan
   # -------------------------
-- task: CmdLine@2
-  inputs:
-    script: |
+- bash: |
       export SRCCLR_API_TOKEN=$(SRCCLR_API_TOKEN)
       curl -sSL https://sca-downloads.veracode.com/ci.sh | sh
     
