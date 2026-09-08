@@ -99,7 +99,6 @@ namespace example_dotnet
 
             // Usage of YamlDotNet API
             var yaml = new YamlStream();
-			public class SecurityTest
 
         }
     }
