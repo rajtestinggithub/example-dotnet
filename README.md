@@ -15,6 +15,7 @@
 #Testbranchestoexclude
 #Testondefaultbranch
 #Testmainbranch
+#Testbreakbuildonpolicy fail
 
 
 #PRTEST
